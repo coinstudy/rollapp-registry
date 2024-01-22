@@ -1,8 +1,8 @@
 {
   "chainId": "hasscoinstudy_3553406-1",
-  "chainName": "Hasscoinstudy",
-  "rpc": "https://froopyland.dymension.xyz/22/hasscoinstudy_3553406-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/22/hasscoinstudy_3553406-1/rest",
+  "chainName": "hasscoinstudy_3553406-1",
+  "rpc": "http://185.185.82.170:26657",
+  "rest": "http://185.185.82.170:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,14 @@
   },
   "evm": {
     "chainId": "0x36387e",
-    "rpc": "https://froopyland.dymension.xyz/22/hasscoinstudy_3553406-1/evmrpc"
+    "rpc": "http://185.185.82.170:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
+  "goldberg": true,
+  "availAdress": "5DvNXaP2VBeUvDD2uosJZeSXP58NwndHasNKp4MHtztyf6Bu",
   "description": "",
   "analytics": true
 }
+
+
